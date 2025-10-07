@@ -1,4 +1,4 @@
-# 🧩 Gestión de Roles con Auditoría
+# Gestión de Roles con Auditoría
 
 Sistema completo de **gestión de usuarios y roles** con **registro de auditoría** desarrollado con:
 
@@ -10,18 +10,18 @@ El objetivo del proyecto es ofrecer un entorno seguro y administrable donde se p
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
-* ✅ Registro, autenticación y gestión de usuarios.
-* 🔐 Asignación, actualización y eliminación de roles.
-* 📋 Auditoría completa de acciones (creación, modificación, cambio de rol, inicio/cierre de sesión, etc.).
-* 🧱 Estructura modular y escalable.
-* 🌐 Frontend sencillo en Vue para manejo visual de roles y estados de usuario (activo/inactivo).
-* ⚙️ Tipado fuerte con TypeScript y ORM moderno (Prisma).
+*  Registro, autenticación y gestión de usuarios.
+*  Asignación, actualización y eliminación de roles.
+*  Auditoría completa de acciones (creación, modificación, cambio de rol, inicio/cierre de sesión, etc.).
+*  Estructura modular y escalable.
+*  Frontend sencillo en Vue para manejo visual de roles y estados de usuario (activo/inactivo).
+*  Tipado fuerte con TypeScript y ORM moderno (Prisma).
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 ### **Backend**
 
@@ -44,7 +44,7 @@ El objetivo del proyecto es ofrecer un entorno seguro y administrable donde se p
 
 ---
 
-## 🧩 Funcionalidades clave (Módulos)
+## Funcionalidades clave (Módulos)
 
 | Módulo            | Descripción                                                     |
 | ----------------- | --------------------------------------------------------------- |
@@ -56,7 +56,7 @@ El objetivo del proyecto es ofrecer un entorno seguro y administrable donde se p
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Luis Sazo**
 Proyecto educativo y práctico para fortalecer habilidades en desarrollo backend con TypeScript y manejo de auditoría en sistemas multirol.
